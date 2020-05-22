@@ -170,16 +170,16 @@ header.masthead h2 {
   }
 }
 .portfolio {
-  margin-bottom: -15px;
+  margin-bottom: 15px;
 }
 .heading {
   margin-top: -25%;
 }
 .mas {
-  margin-top: -20%;
+  margin-top: -50%;
 }
 .new{
-  margin-bottom:1%;
+  margin-bottom:10%;
 }
 @media only screen and (min-width: 480px) {
   .heading {
